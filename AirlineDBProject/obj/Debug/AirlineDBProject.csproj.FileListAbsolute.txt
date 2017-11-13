@@ -1,0 +1,15 @@
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\AirlineDBProject.exe.config
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\AirlineDBProject.exe
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\AirlineDBProject.pdb
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\Dapper.dll
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\Dapper.xml
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.csprojResolveAssemblyReference.cache
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.Properties.Resources.resources
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.csproj.GenerateResource.Cache
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.csproj.CoreCompileInputs.cache
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.exe
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.pdb
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\MySql.Data.dll
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\bin\Debug\MySql.Data.xml
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.LoginForm.resources
+C:\Users\samta\Documents\Visual Studio 2017\Projects\AirlineDBProject\AirlineDBProject\obj\Debug\AirlineDBProject.HomeForm.resources
